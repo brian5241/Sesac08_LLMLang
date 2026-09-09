@@ -1,0 +1,13 @@
+# 환경 변수 / 시크릿
+.env
+
+# 파이썬
+__pycache__/
+*.pyc
+
+# 데이터 / 산출물
+*.pdf
+*.bin
+*.sqlite3
+pdf/
+vectordb/
